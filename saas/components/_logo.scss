@@ -1,0 +1,14 @@
+.logo {
+  text-decoration: none;
+  font-family: $raleway-family;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.2;
+  color: $logo-header-color;
+  display: flex;
+  align-items: center;
+  margin-right: 93px;
+}
+.logo__web-logo {
+  color: $hover-color;
+}

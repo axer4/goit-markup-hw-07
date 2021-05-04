@@ -1,0 +1,22 @@
+.our-qualities {
+  padding-top: 94px;
+  padding-bottom: 94px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.our-qualities-list {
+  display: flex;
+}
+.our-qualities-list__item {
+  list-style: none;
+  --grid-item: 4;
+}
+.our-qualities-list__heading {
+  font-size: 14px;
+  line-height: 1.1;
+  text-transform: uppercase;
+  color: $h1-h2-h3-color;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}

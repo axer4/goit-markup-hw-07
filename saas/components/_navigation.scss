@@ -1,0 +1,16 @@
+.navigation {
+  display: flex;
+}
+.navigation-list--position {
+  display: flex;
+  padding-left: 0px;
+  align-items: center;
+}
+.navigation-list__item {
+  position: relative;
+  list-style: none;
+  margin-right: 50px;
+  &:last-child {
+    margin-right: 0px;
+  }
+}
